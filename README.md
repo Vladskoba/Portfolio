@@ -11,5 +11,6 @@
 |2|[Проект "Выбор локации для скважины"](https://github.com/Vladskoba/Portfolio/blob/main/ML_buisness/Readme%20ML_buisness.md)|Предсказание запасов нефтяных ресурсов. Определение перспективного региона для разработки и анализ рисков| python,pandas,sklearn,numpy,matplotlib|
 |3|[Проект по определению стоимости автомобилей](https://github.com/Vladskoba/Portfolio/tree/main/Numerical%20method)|Предсказание стоимости автомобилей на основе табличных данных|python,pandas,matplotlib,sklearn,numpy,lightgbm|
 |4|[Исследовательский анализ продаж](https://github.com/Vladskoba/Portfolio/tree/main/Research%20analysis%20project)| Исследование данных о продажах компьютерных игр|python,pandas,matplotlib,scipy
+|5|[Определение возраста по изображениям(https://github.com/Vladskoba/Portfolio/tree/main/Face%20age)|Применение технологии компьютерного зраения для определения возраста человека по фотографии|python,pandas,matplotlib,tensorflow,keras,ResNet50
 
 
